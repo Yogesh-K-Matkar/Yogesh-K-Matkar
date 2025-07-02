@@ -2,10 +2,10 @@
 
 I'm a passionate **Full Stack Web Developer** with experience building web applications using technologies like:
 
-- 💻 Frontend: HTML, CSS, JavaScript, React
+- 💻 Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, React Router, Redux
 - 🛠 Backend: .Net Core (MVC, Web API)
 - 🗄️ Database: Microsoft SQL
-- ☁️ DevOps: GitHub Actions, Netlify
+- ☁️ DevOps: GitHub Actions, Jira, Netlify
 - 🧪 Testing: Postman
 - 💬 Languages: C#, JavaScript, SQL
 
@@ -40,11 +40,17 @@ I'm a passionate **Full Stack Web Developer** with experience building web appli
 
 ---
 
+**💡 I'm open to:**
+* Collaborating on interesting full-stack projects.
+* New opportunities as a Full-Stack Developer.
+  
+---
+
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/yogesh-matkar-fullstack)
+[![Portfolio](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/yogeshkm/projects)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=outlook&logoColor=white)](mailto:yogesh.matkar@outlook.in)
 
 ---
 
