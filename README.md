@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Yogesh K. Matkar]
+# 👋 Hi, I'm Yogesh K. Matkar
 
 I'm a passionate **Full Stack Web Developer** with experience building web applications using technologies like:
 
