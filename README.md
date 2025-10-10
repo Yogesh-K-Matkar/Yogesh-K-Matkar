@@ -2,12 +2,12 @@
 
 I'm a passionate **Full Stack Web Developer** with experience building web applications using technologies like:
 
-- 💻 Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, React Router, Redux
+- 💻 Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, React Router, Redux, Redux Toolkit
 - 🛠 Backend: C# .Net Core (MVC, Web API)
 - 🗄️ Database: Microsoft SQL
 - ☁️ DevOps: GitHub Actions, Jira, Netlify
-- 🧪 Testing: Postman
-- 💬 Languages: C#, JavaScript, SQL
+- 🧪 Testing: Postman, Swagger
+- 💬 Languages: C#, JavaScript
 
 ---
 
