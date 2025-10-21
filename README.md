@@ -2,10 +2,11 @@
 
 I'm a passionate **Senior Software Engineer(.Net Web Developer)** with experience building web applications using technologies like:
 
-- 💻 Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, React Router, Redux, Redux Toolkit
-- 🛠 Backend: C# .Net Core (MVC, Web API)
-- 🗄️ Database: Microsoft SQL
-- ☁️ DevOps: GitHub Actions, Jira, Netlify
+- 💻 Frontend: HTML, CSS3, Tailwind CSS, JavaScript, React, React Router, Redux, Redux Toolkit
+- 🛠 Backend: C# .Net Core Web API, Microservices, API-Gateway(Ocelot Pattern)
+- 🗄️ Database: Microsoft SQL, Entity Framework(EF)
+- ☁️ DevOps: Git Commands, GitHub (Repository management, Issue tracking), Github Actions(CI/CD Pipeline(Build,Merge,Pushing & Deploy Automated Process through YAML Script),Azure(Creating Repo,Local Cloning,Pull,Push            Actions), GitHub-Pages, Netlify, Jira
+- 🛠  Agile Tool : Jira (Tracking changes assign with attach wireframe/process-flow change  and timeline for development)
 - 🧪 Testing: Postman, Swagger
 - 💬 Languages: C#, JavaScript
 
