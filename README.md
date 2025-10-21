@@ -43,7 +43,7 @@ I'm a passionate **Senior Software Engineer(.Net Web Developer)** with experienc
 
 **💡 I'm open to:**
 * Collaborating on interesting full-stack projects.
-* New opportunities as a Full-Stack Developer.
+* New opportunities as a Senior Software Engineer or Full-Stack Development.
   
 ---
 
